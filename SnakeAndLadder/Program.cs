@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             StartGame SG= new StartGame();
-            SG.Gamestart();
+            SG.RollDie();
         }
     }
 }
